@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "palmetto:block/red_clay"
+      },
+      {
+        "model": "palmetto:block/red_clay_v1"
+      },
+      {
+        "model": "palmetto:block/red_clay_v2"
+      },
+      {
+        "model": "palmetto:block/red_clay_v3"
+      },
+      {
+        "model": "palmetto:block/red_clay_v4"
+      },
+      {
+        "model": "palmetto:block/red_clay_v5"
+      },
+      {
+        "model": "palmetto:block/red_clay_v6"
+      },
+      {
+        "model": "palmetto:block/red_clay_v7"
+      }
+    ]
+  }
+}

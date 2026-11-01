@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "palmetto:block/road_shoulder",
+    "side": "palmetto:block/road_shoulder",
+    "bottom": "palmetto:block/road_shoulder"
+  }
+}

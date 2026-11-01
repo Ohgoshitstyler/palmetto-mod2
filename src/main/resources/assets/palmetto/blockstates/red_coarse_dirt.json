@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "palmetto:block/red_coarse_dirt"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v1"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v2"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v3"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v4"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v5"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v6"
+      },
+      {
+        "model": "palmetto:block/red_coarse_dirt_v7"
+      }
+    ]
+  }
+}

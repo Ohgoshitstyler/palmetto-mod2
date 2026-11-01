@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "palmetto:block/rooted_soil"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v1"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v2"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v3"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v4"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v5"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v6"
+      },
+      {
+        "model": "palmetto:block/rooted_soil_v7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "palmetto",
+  "version": "${version}",
+  "name": "Project Palmetto: Building & Terrain",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/palmetto/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.projectpalmetto.buildingterrain.client.PalmettoModDataGenerator"
+    ],
+    "client": [
+      "com.projectpalmetto.buildingterrain.client.PalmettoModClient"
+    ],
+    "main": [
+      "com.projectpalmetto.buildingterrain.PalmettoMod"
+    ]
+  },
+  "mixins": [
+    "palmetto.mixins.json",
+    {
+      "config": "palmetto.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "suggests": {
+    "continuity": "*"
+  }
+}

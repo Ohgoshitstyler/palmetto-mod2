@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "palmetto:block/forest_floor"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v1"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v2"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v3"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v4"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v5"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v6"
+      },
+      {
+        "model": "palmetto:block/forest_floor_v7"
+      }
+    ]
+  }
+}

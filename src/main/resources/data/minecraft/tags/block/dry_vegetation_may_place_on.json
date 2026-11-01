@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "palmetto:red_gravel",
+    "palmetto:brown_gravel",
+    "palmetto:red_sand",
+    "palmetto:orange_sand"
+  ]
+}

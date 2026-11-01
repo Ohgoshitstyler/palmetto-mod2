@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "palmetto:block/fresh_asphalt",
+    "side": "palmetto:block/fresh_asphalt",
+    "bottom": "palmetto:block/fresh_asphalt"
+  }
+}

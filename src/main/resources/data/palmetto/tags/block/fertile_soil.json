@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "palmetto:red_clay",
+    "palmetto:orange_clay",
+    "palmetto:brown_clay",
+    "palmetto:red_dirt",
+    "palmetto:orange_dirt",
+    "palmetto:brown_dirt",
+    "palmetto:red_coarse_dirt",
+    "palmetto:orange_coarse_dirt",
+    "palmetto:brown_coarse_dirt",
+    "palmetto:dark_mud",
+    "palmetto:forest_floor",
+    "palmetto:rooted_soil"
+  ]
+}

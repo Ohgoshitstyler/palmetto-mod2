@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "palmetto:block/orange_sand"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v1"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v2"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v3"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v4"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v5"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v6"
+      },
+      {
+        "model": "palmetto:block/orange_sand_v7"
+      }
+    ]
+  }
+}

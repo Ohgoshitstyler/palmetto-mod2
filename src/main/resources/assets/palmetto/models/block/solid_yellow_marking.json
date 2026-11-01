@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "palmetto:block/solid_yellow_marking"
+  }
+}

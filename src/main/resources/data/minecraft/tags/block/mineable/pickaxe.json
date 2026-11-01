@@ -1,0 +1,16 @@
+{
+    "replace":  false,
+    "values":  [
+                   "palmetto:fresh_asphalt",
+                   "palmetto:worn_asphalt",
+                   "palmetto:faded_asphalt",
+                   "palmetto:patched_asphalt",
+                   "palmetto:concrete_road",
+                   "palmetto:concrete_sidewalk",
+                   "palmetto:gravel_road",
+                   "palmetto:compacted_dirt_road",
+                   "palmetto:road_shoulder",
+                   "palmetto:solid_white_marking",
+                   "palmetto:solid_yellow_marking"
+               ]
+}

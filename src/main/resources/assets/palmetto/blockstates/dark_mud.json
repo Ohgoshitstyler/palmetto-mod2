@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "palmetto:block/dark_mud"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v1"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v2"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v3"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v4"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v5"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v6"
+      },
+      {
+        "model": "palmetto:block/dark_mud_v7"
+      }
+    ]
+  }
+}

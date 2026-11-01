@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "palmetto:block/rooted_soil_v6"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "palmetto:block/compacted_dirt_road",
+    "side": "palmetto:block/compacted_dirt_road",
+    "bottom": "palmetto:block/compacted_dirt_road"
+  }
+}
